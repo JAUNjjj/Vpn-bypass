@@ -1,0 +1,6 @@
+{
+  "name": "Planet VPN",
+  "description": "An elegant Earth-themed VPN client with local DNS ad blocking and media bypass simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
